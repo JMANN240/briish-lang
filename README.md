@@ -2,7 +2,9 @@
 
 ## Yet another BF derivative!
 
----
+## Usage
+
+`python main.py BRIISHFILE.brit`
 
 ## Instruction Set
 
