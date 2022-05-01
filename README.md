@@ -20,3 +20,7 @@ A briishfile is defined as a string of tokens separated by spaces or newline cha
 - Take user input: `innit?`
 - Loop start -> `loike`
 - Loop end -> `roight?`
+
+## Example: Hello, World!
+
+`roight maffs maffs maffs maffs maffs maffs maffs maffs loike bruv maffs maffs maffs maffs maffs maffs maffs maffs maffs roight bloody roight? bruv oi roight maffs maffs maffs maffs loike bruv maffs maffs maffs maffs maffs maffs maffs roight bloody roight? bruv maffs oi maffs maffs maffs maffs maffs maffs maffs oi oi maffs maffs maffs oi roight roight maffs maffs maffs maffs maffs maffs loike bruv maffs maffs maffs maffs maffs maffs maffs roight bloody roight? bruv maffs maffs oi bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody oi roight maffs maffs maffs maffs maffs maffs loike bruv maffs maffs maffs maffs maffs maffs maffs maffs maffs roight bloody roight? bruv maffs oi bruv oi maffs maffs maffs oi bloody bloody bloody bloody bloody bloody oi bloody bloody bloody bloody bloody bloody bloody bloody oi roight roight roight maffs maffs maffs maffs loike bruv maffs maffs maffs maffs maffs maffs maffs maffs roight bloody roight? bruv maffs oi bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody bloody oi`
